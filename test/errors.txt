@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 60: stop requires a channel
+    stop "bg-start.mp3" fadeout 2.0
+         ^
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Wed Jul 19 16:34:24 2023
